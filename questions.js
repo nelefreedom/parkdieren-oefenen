@@ -1090,5 +1090,485 @@ const QUESTIONS = [
     ],
     "explanation": "Bedreigingsstatus en handelsregels zijn verschillende dingen.",
     "source": "Parkdieren BHVD, CITES en IUCN, dia 25–26"
+  },
+  {
+    "id": 79,
+    "cat": "Dieren herkennen",
+    "prompt": "Welk dier zie je?",
+    "answer": "Diamantduif",
+    "options": [
+      "Diamantduif",
+      "Perzikkop dwergpapegaai",
+      "Grasparkiet",
+      "Kanarie"
+    ],
+    "explanation": "Dit is de diamantduif.",
+    "source": "Vogels oefenen met antwoorden",
+    "image": "dier-01.jpeg"
+  },
+  {
+    "id": 80,
+    "cat": "Dieren herkennen",
+    "prompt": "Welk dier zie je?",
+    "answer": "Grasparkiet",
+    "options": [
+      "Grasparkiet",
+      "Mandarijneend",
+      "Perzikkop dwergpapegaai",
+      "Grijze roodstaartpapegaai"
+    ],
+    "explanation": "Dit is de grasparkiet.",
+    "source": "Vogels oefenen met antwoorden",
+    "image": "dier-02.jpeg"
+  },
+  {
+    "id": 81,
+    "cat": "Dieren herkennen",
+    "prompt": "Welk dier zie je?",
+    "answer": "Gould’s amadine",
+    "options": [
+      "Gould’s amadine",
+      "Rijstvogel",
+      "Kanarie",
+      "Grasparkiet"
+    ],
+    "explanation": "Dit is de gould’s amadine.",
+    "source": "Vogels oefenen met antwoorden",
+    "image": "dier-03.jpeg"
+  },
+  {
+    "id": 82,
+    "cat": "Dieren herkennen",
+    "prompt": "Welk dier zie je?",
+    "answer": "Helmparelhoen",
+    "options": [
+      "Helmparelhoen",
+      "Gould’s amadine",
+      "Goudfazant",
+      "Chinese dwergkwartel"
+    ],
+    "explanation": "Dit is de helmparelhoen.",
+    "source": "Vogels oefenen met antwoorden",
+    "image": "dier-04.png"
+  },
+  {
+    "id": 83,
+    "cat": "Dieren herkennen",
+    "prompt": "Welk dier zie je?",
+    "answer": "Perzikkop dwergpapegaai",
+    "options": [
+      "Perzikkop dwergpapegaai",
+      "Grasparkiet",
+      "Diamantduif",
+      "Nandoe"
+    ],
+    "explanation": "Dit is de perzikkop dwergpapegaai.",
+    "source": "Vogels oefenen met antwoorden",
+    "image": "dier-05.png"
+  },
+  {
+    "id": 84,
+    "cat": "Dieren herkennen",
+    "prompt": "Welk dier zie je?",
+    "answer": "Rijstvogel",
+    "options": [
+      "Rijstvogel",
+      "Chinese dwergkwartel",
+      "Helmparelhoen",
+      "Mandarijneend"
+    ],
+    "explanation": "Dit is de rijstvogel.",
+    "source": "Vogels oefenen met antwoorden",
+    "image": "dier-06.jpeg"
+  },
+  {
+    "id": 85,
+    "cat": "Dieren herkennen",
+    "prompt": "Welk dier zie je?",
+    "answer": "Valkparkiet",
+    "options": [
+      "Valkparkiet",
+      "Diamantduif",
+      "Mandarijneend",
+      "Helmparelhoen"
+    ],
+    "explanation": "Dit is de valkparkiet.",
+    "source": "Vogels oefenen met antwoorden",
+    "image": "dier-07.png"
+  },
+  {
+    "id": 86,
+    "cat": "Dieren herkennen",
+    "prompt": "Welk dier zie je?",
+    "answer": "Chinese dwergkwartel",
+    "options": [
+      "Chinese dwergkwartel",
+      "Woestijnhavik",
+      "Helmparelhoen",
+      "Zebravink"
+    ],
+    "explanation": "Dit is de chinese dwergkwartel.",
+    "source": "Vogels oefenen met antwoorden",
+    "image": "dier-08.png"
+  },
+  {
+    "id": 87,
+    "cat": "Dieren herkennen",
+    "prompt": "Welk dier zie je?",
+    "answer": "Zebravink",
+    "options": [
+      "Zebravink",
+      "Mandarijneend",
+      "Blauwgele ara",
+      "Woestijnhavik"
+    ],
+    "explanation": "Dit is de zebravink.",
+    "source": "Vogels oefenen met antwoorden",
+    "image": "dier-09.png"
+  },
+  {
+    "id": 88,
+    "cat": "Dieren herkennen",
+    "prompt": "Welk dier zie je?",
+    "answer": "Mandarijneend",
+    "options": [
+      "Mandarijneend",
+      "Diamantduif",
+      "Blauwgele ara",
+      "Grijze roodstaartpapegaai"
+    ],
+    "explanation": "Dit is de mandarijneend.",
+    "source": "Vogels oefenen met antwoorden",
+    "image": "dier-10.jpeg"
+  },
+  {
+    "id": 89,
+    "cat": "Dieren herkennen",
+    "prompt": "Welk dier zie je?",
+    "answer": "Goudfazant",
+    "options": [
+      "Goudfazant",
+      "Rijstvogel",
+      "Kanarie",
+      "Valkparkiet"
+    ],
+    "explanation": "Dit is de goudfazant.",
+    "source": "Vogels oefenen met antwoorden",
+    "image": "dier-11.jpeg"
+  },
+  {
+    "id": 90,
+    "cat": "Dieren herkennen",
+    "prompt": "Welk dier zie je?",
+    "answer": "Putter (Distelvink)",
+    "options": [
+      "Putter (Distelvink)",
+      "Goudfazant",
+      "Perzikkop dwergpapegaai",
+      "Gould’s amadine"
+    ],
+    "explanation": "Dit is de putter (distelvink).",
+    "source": "Vogels oefenen met antwoorden",
+    "image": "dier-12.jpeg"
+  },
+  {
+    "id": 91,
+    "cat": "Dieren herkennen",
+    "prompt": "Welk dier zie je?",
+    "answer": "Kanarie",
+    "options": [
+      "Kanarie",
+      "Valkparkiet",
+      "Blauwgele ara",
+      "Rijstvogel"
+    ],
+    "explanation": "Dit is de kanarie.",
+    "source": "Vogels oefenen met antwoorden",
+    "image": "dier-13.jpeg"
+  },
+  {
+    "id": 92,
+    "cat": "Dieren herkennen",
+    "prompt": "Welk dier zie je?",
+    "answer": "Blauwgele ara",
+    "options": [
+      "Blauwgele ara",
+      "Helmparelhoen",
+      "Grasparkiet",
+      "Valkparkiet"
+    ],
+    "explanation": "Dit is de blauwgele ara.",
+    "source": "Vogels oefenen met antwoorden",
+    "image": "dier-14.png"
+  },
+  {
+    "id": 93,
+    "cat": "Dieren herkennen",
+    "prompt": "Welk dier zie je?",
+    "answer": "Woestijnhavik",
+    "options": [
+      "Woestijnhavik",
+      "Helmparelhoen",
+      "Rijstvogel",
+      "Blauwgele ara"
+    ],
+    "explanation": "Dit is de woestijnhavik.",
+    "source": "Vogels oefenen met antwoorden",
+    "image": "dier-15.jpeg"
+  },
+  {
+    "id": 94,
+    "cat": "Dieren herkennen",
+    "prompt": "Welk dier zie je?",
+    "answer": "Grijze roodstaartpapegaai",
+    "options": [
+      "Grijze roodstaartpapegaai",
+      "Putter (Distelvink)",
+      "Mandarijneend",
+      "Perzikkop dwergpapegaai"
+    ],
+    "explanation": "Dit is de grijze roodstaartpapegaai.",
+    "source": "Vogels oefenen met antwoorden",
+    "image": "dier-16.jpeg"
+  },
+  {
+    "id": 95,
+    "cat": "Dieren herkennen",
+    "prompt": "Welk dier zie je?",
+    "answer": "Nandoe",
+    "options": [
+      "Nandoe",
+      "Grasparkiet",
+      "Putter (Distelvink)",
+      "Chinese dwergkwartel"
+    ],
+    "explanation": "Dit is de nandoe.",
+    "source": "Vogels oefenen met antwoorden",
+    "image": "dier-17.jpeg"
+  },
+  {
+    "id": 96,
+    "cat": "Dieren herkennen",
+    "prompt": "Welk dier zie je?",
+    "answer": "Jemen-kameleon",
+    "options": [
+      "Jemen-kameleon",
+      "Muskusschildpad of stinkpot",
+      "Baardagaam",
+      "Boa constrictor of roodstaartboa"
+    ],
+    "explanation": "Dit is de jemen-kameleon.",
+    "source": "Soortenlijst herpeten - niv. 2, dia 6",
+    "image": "dier-18.jpg"
+  },
+  {
+    "id": 97,
+    "cat": "Dieren herkennen",
+    "prompt": "Welk dier zie je?",
+    "answer": "Groene leguaan",
+    "options": [
+      "Groene leguaan",
+      "Baardagaam",
+      "Muskusschildpad of stinkpot",
+      "Rode rattenslang of korenslang"
+    ],
+    "explanation": "Dit is de groene leguaan.",
+    "source": "Soortenlijst herpeten - niv. 2, dia 7",
+    "image": "dier-19.jpg"
+  },
+  {
+    "id": 98,
+    "cat": "Dieren herkennen",
+    "prompt": "Welk dier zie je?",
+    "answer": "Baardagaam",
+    "options": [
+      "Baardagaam",
+      "Bijengifkikker",
+      "Axolotl",
+      "Kolenbranderschildpad"
+    ],
+    "explanation": "Dit is de baardagaam.",
+    "source": "Soortenlijst herpeten - niv. 2, dia 8",
+    "image": "dier-20.jpg"
+  },
+  {
+    "id": 99,
+    "cat": "Dieren herkennen",
+    "prompt": "Welk dier zie je?",
+    "answer": "Luipaardgekko",
+    "options": [
+      "Luipaardgekko",
+      "Bijengifkikker",
+      "Koningspython of balpython",
+      "Kolenbranderschildpad"
+    ],
+    "explanation": "Dit is de luipaardgekko.",
+    "source": "Soortenlijst herpeten - niv. 2, dia 9",
+    "image": "dier-21.jpg"
+  },
+  {
+    "id": 100,
+    "cat": "Dieren herkennen",
+    "prompt": "Welk dier zie je?",
+    "answer": "Roodkeelanolis",
+    "options": [
+      "Roodkeelanolis",
+      "Luipaardgekko",
+      "Vuursalamander",
+      "Groene leguaan"
+    ],
+    "explanation": "Dit is de roodkeelanolis.",
+    "source": "Soortenlijst herpeten - niv. 2, dia 10",
+    "image": "dier-22.jpg"
+  },
+  {
+    "id": 101,
+    "cat": "Dieren herkennen",
+    "prompt": "Welk dier zie je?",
+    "answer": "Rode rattenslang of korenslang",
+    "options": [
+      "Rode rattenslang of korenslang",
+      "Jemen-kameleon",
+      "Axolotl",
+      "Luipaardgekko"
+    ],
+    "explanation": "Dit is de rode rattenslang of korenslang.",
+    "source": "Soortenlijst herpeten - niv. 2, dia 12",
+    "image": "dier-23.jpg"
+  },
+  {
+    "id": 102,
+    "cat": "Dieren herkennen",
+    "prompt": "Welk dier zie je?",
+    "answer": "Koningspython of balpython",
+    "options": [
+      "Koningspython of balpython",
+      "Koreaanse vuurbuikpad",
+      "Roodkeelanolis",
+      "Groene leguaan"
+    ],
+    "explanation": "Dit is de koningspython of balpython.",
+    "source": "Soortenlijst herpeten - niv. 2, dia 13",
+    "image": "dier-24.jpg"
+  },
+  {
+    "id": 103,
+    "cat": "Dieren herkennen",
+    "prompt": "Welk dier zie je?",
+    "answer": "Boa constrictor of roodstaartboa",
+    "options": [
+      "Boa constrictor of roodstaartboa",
+      "Bijengifkikker",
+      "Luipaardgekko",
+      "Groene leguaan"
+    ],
+    "explanation": "Dit is de boa constrictor of roodstaartboa.",
+    "source": "Soortenlijst herpeten - niv. 2, dia 14",
+    "image": "dier-25.jpg"
+  },
+  {
+    "id": 104,
+    "cat": "Dieren herkennen",
+    "prompt": "Welk dier zie je?",
+    "answer": "Griekse landschildpad",
+    "options": [
+      "Griekse landschildpad",
+      "Koningspython of balpython",
+      "Roodkeelanolis",
+      "Boa constrictor of roodstaartboa"
+    ],
+    "explanation": "Dit is de griekse landschildpad.",
+    "source": "Soortenlijst herpeten - niv. 2, dia 16",
+    "image": "dier-26.jpg"
+  },
+  {
+    "id": 105,
+    "cat": "Dieren herkennen",
+    "prompt": "Welk dier zie je?",
+    "answer": "Muskusschildpad of stinkpot",
+    "options": [
+      "Muskusschildpad of stinkpot",
+      "Axolotl",
+      "Rode rattenslang of korenslang",
+      "Baardagaam"
+    ],
+    "explanation": "Dit is de muskusschildpad of stinkpot.",
+    "source": "Soortenlijst herpeten - niv. 2, dia 17",
+    "image": "dier-27.jpg"
+  },
+  {
+    "id": 106,
+    "cat": "Dieren herkennen",
+    "prompt": "Welk dier zie je?",
+    "answer": "Kolenbranderschildpad",
+    "options": [
+      "Kolenbranderschildpad",
+      "Rode rattenslang of korenslang",
+      "Bijengifkikker",
+      "Luipaardgekko"
+    ],
+    "explanation": "Dit is de kolenbranderschildpad.",
+    "source": "Soortenlijst herpeten - niv. 2, dia 18",
+    "image": "dier-28.jpg"
+  },
+  {
+    "id": 107,
+    "cat": "Dieren herkennen",
+    "prompt": "Welk dier zie je?",
+    "answer": "Axolotl",
+    "options": [
+      "Axolotl",
+      "Kolenbranderschildpad",
+      "Roodkeelanolis",
+      "Vuursalamander"
+    ],
+    "explanation": "Dit is de axolotl.",
+    "source": "Soortenlijst herpeten - niv. 2, dia 20",
+    "image": "dier-29.jpg"
+  },
+  {
+    "id": 108,
+    "cat": "Dieren herkennen",
+    "prompt": "Welk dier zie je?",
+    "answer": "Vuursalamander",
+    "options": [
+      "Vuursalamander",
+      "Kolenbranderschildpad",
+      "Bijengifkikker",
+      "Groene leguaan"
+    ],
+    "explanation": "Dit is de vuursalamander.",
+    "source": "Soortenlijst herpeten - niv. 2, dia 21",
+    "image": "dier-30.jpg"
+  },
+  {
+    "id": 109,
+    "cat": "Dieren herkennen",
+    "prompt": "Welk dier zie je?",
+    "answer": "Koreaanse vuurbuikpad",
+    "options": [
+      "Koreaanse vuurbuikpad",
+      "Muskusschildpad of stinkpot",
+      "Kolenbranderschildpad",
+      "Baardagaam"
+    ],
+    "explanation": "Dit is de koreaanse vuurbuikpad.",
+    "source": "Soortenlijst herpeten - niv. 2, dia 23",
+    "image": "dier-31.jpg"
+  },
+  {
+    "id": 110,
+    "cat": "Dieren herkennen",
+    "prompt": "Welk dier zie je?",
+    "answer": "Bijengifkikker",
+    "options": [
+      "Bijengifkikker",
+      "Griekse landschildpad",
+      "Axolotl",
+      "Luipaardgekko"
+    ],
+    "explanation": "Dit is de bijengifkikker.",
+    "source": "Soortenlijst herpeten - niv. 2, dia 24",
+    "image": "dier-32.jpg"
   }
 ];
